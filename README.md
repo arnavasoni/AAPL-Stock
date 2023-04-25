@@ -18,6 +18,7 @@ Predicting Apple's stock closing price, using data collected from 2015 to 2020.
 * Split the data for training and testing.
 * Mention the feature column, number of predictions to be made, and the train test split percentage.
 * Train the model using training data.
+* Score the model.
 * Check how well the model is working using model.score()
 * Predict the values.
 * Print as a dataframe.
